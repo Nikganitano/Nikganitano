@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nik Ganitano
+# Hi there! 👋 I'm NikGanitano
 
 ### About Me
 - 👋 I'm a Solutions Engineer based in Italy
